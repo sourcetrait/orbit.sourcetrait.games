@@ -1,0 +1,51 @@
+html, body {
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: #282828;
+    color: #eee;
+    font-family: sans-serif;
+    color-scheme: dark;
+}
+
+a {
+    color: #eee;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: inherit;
+}
+
+div.center {
+    position:relative;
+    height: 100%;
+    width:100%;
+}
+
+div.center img {
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+    max-width: 80%;
+    max-height: 80%;
+}
+
+div.author {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 10px;
+    color: gray;
+}
