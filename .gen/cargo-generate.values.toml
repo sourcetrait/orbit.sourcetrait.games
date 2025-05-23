@@ -1,0 +1,59 @@
+[values]
+# Replace the lines that have been commented out with actual data.
+# Leave the 'Expanded' variables empty to generate based on raw data and defaults.
+#
+# SourceTrait Common has been used as an example.
+
+# Suite
+suite-title = "Source Trait"
+suite-brand-dir = "source-trait"
+suite-cli-name = "source-trait"
+
+# Suite (Expanded)
+suite-title-lowercase = ""
+suite-slug = ""
+
+# Suite Member
+suite-member-title = "Orbit"
+
+# Suite Member (Expanded)
+suite-member-title-lowercase = ""
+suite-member-slug = ""
+suite-member-cli-name = ""
+
+# Product
+product-title = "Source Trait: Orbit"
+product-brand-dir = "source-trait/orbit"
+
+# Product (Expanded)
+product-title-lowercase = ""
+product-slug = ""
+product-cli-name = ""
+
+# Site
+site-domain-name = "orbit.sourcetrait.games"
+site-title = "Source Trait: Orbit"
+site-description = "Massively multiplayer dual-stick space shooter"
+site-theme = "source-trait"
+site-logo-variant = ""
+
+# Site (Expanded)
+site-url = ""
+
+# Repository
+repository-name = "source-trait-orbit"
+
+# Repository (Defaults)
+repository-url-base = ""
+repository-homepage-url = ""
+repository-copyright-holder-name = ""
+repository-copyright-holder-url = ""
+repository-info-file-name = ""
+repository-info-file-path = ""
+
+# Repository (Expanded)
+repository-url = ""
+repository-copyright-year = ""
+
+# Copy (Expanded from assets.rhai)
+copy-product-description = ""

@@ -1,0 +1,11 @@
+body {
+    background-color: #0d1117;
+}
+
+header > hgroup > div > h1 {
+    color: red;
+}
+
+main > section > h2 {
+    background-color: #2e0006;
+}
